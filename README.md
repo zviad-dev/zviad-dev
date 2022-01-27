@@ -35,5 +35,7 @@
 * [x] Пройти курс по Git на Slurm
 * [x] Поучаствовать в отборе от hh
 * [x] Пройти курс по Docker на Stepik
+* [ ] Пройти обучение в hh до конца
+* [ ] Пройти курсво JavaScript на learn.javascript.ru
 * [ ] Еще
 <!-- TODO-IST:END -->
