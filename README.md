@@ -36,6 +36,7 @@
 * [x] Поучаствовать в отборе от hh
 * [x] Пройти курс по Docker на Stepik
 * [ ] Пройти обучение в hh до конца
-* [ ] Пройти курсво JavaScript на learn.javascript.ru
+* [ ] Пройти курс по JavaScript на learn.javascript.ru
+* [ ] Пройти курс по React на ru.reactjs.org
 * [ ] Еще
 <!-- TODO-IST:END -->
