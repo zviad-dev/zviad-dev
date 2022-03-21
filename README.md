@@ -38,5 +38,6 @@
 * [ ] Пройти обучение в hh до конца
 * [ ] Пройти курс по JavaScript на learn.javascript.ru
 * [ ] Пройти курс по React на ru.reactjs.org
+* [ ] Создать порфолио на react
 * [ ] Еще
 <!-- TODO-IST:END -->
