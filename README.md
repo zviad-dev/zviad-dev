@@ -20,7 +20,7 @@
 Привет, меня зовут Звиад, я работаю инженером по тестированию в маркетплейсе. Изучаю Python, JS (React) и ещё несколько интересных технологий.
 <br />
 
-<img align="right" alt="GIF" src="https://training.epam.am/static/news/473/Devops_1500x1000_12430918.png" width="400" height="280" />  
+<img align="right" alt="GIF" src="https://elements-cover-images-0.imgix.net/92614c47-7239-4a50-a207-8f20a2f93e52?auto=compress%2Cformat&fit=max&w=900&s=91a8ed2824dec16d9ae04a2f9c1b1cde" width="400" height="280" />  
   
 **Языки и технологии:**  
 
