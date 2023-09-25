@@ -20,7 +20,7 @@
 Привет, меня зовут Звиад, я работаю инженером по тестированию в маркетплейсе. Изучаю Python, JS (React) и ещё несколько интересных технологий.
 <br />
 
-<img align="right" alt="GIF" src="https://llllline.com/images/thumbs/0000046107_geek-vector-illustration.jpeg" width="400" height="280" />  
+<img align="right" alt="GIF" src="https://llllline.com/images/thumbs/0000046107_geek-vector-illustration.jpeg" width="400" height="400" />  
   
 **Языки и технологии:**  
 
