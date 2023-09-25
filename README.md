@@ -29,6 +29,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**Проекты Frontend:**  
+<a href="https://zviad-dev.github.io/react-redux-ts/">Поиск ревьювера</a>
+<a href="https://zviad-dev.github.io/Drag-and-drop/">Drag-and-drop</a>
+<a href="https://zviad-dev.github.io/Anime-APP/">Саджест</a>
+<a href="https://zviad-dev.github.io/html-and-css-practice/">Верстка</a>
+<a href="https://github.com/zviad-dev/checkly">Большой проект - Сервис получения рекомендаций от бывших работодателей</a>
+
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
